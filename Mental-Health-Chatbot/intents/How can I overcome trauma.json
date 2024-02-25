@@ -1,0 +1,35 @@
+{
+  "id": "c1afc530-eb96-48b6-b27c-0830ac8b14b2",
+  "name": "How can I overcome trauma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Acknowledge your triggers.\n\nPractice self-kindness: Be gentle with yourself, \n\nAvoid self-blame: You are not responsible for the trauma you experienced.\n\nFocus on your strengths: Recognize your resilience and ability to cope with challenges.\n\nMake choices that feel empowering: Engage in activities that bring you joy\n\nSeek professional help when needed."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

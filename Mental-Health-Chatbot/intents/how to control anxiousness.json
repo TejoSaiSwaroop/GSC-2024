@@ -1,0 +1,35 @@
+{
+  "id": "886771fb-41f8-4b36-a6cb-65a90e9efd7f",
+  "name": "how to control anxiousness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify Your Anxiety:\n Be aware of when you’re feeling anxious and try to understand what might be causing it.\n\nAvoid Caffeine and Alcohol: \nThese substances can often exacerbate feelings of anxiety.\n\nWrite It Out:\n Writing about your feelings can provide a safe outlet for expression.\n\nUse Scent:\n Certain scents, like lavender or chamomile, can have a calming effect.\n\nTalk to Someone: \nSharing your feelings with a trusted friend or family member can often help.\n\nPositive Affirmations: \nEncourage yourself with positive and uplifting statements.\n\nExercise: \nRegular physical activity can help reduce anxiety.\n\nEat Healthy Foods: \nA balanced diet can contribute to overall mental well-being.\n\nPractice Mindfulness: \nTechniques such as deep breathing, meditation, and yoga can help you stay present and focused"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

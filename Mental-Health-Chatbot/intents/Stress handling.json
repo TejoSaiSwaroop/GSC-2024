@@ -1,0 +1,35 @@
+{
+  "id": "791b59e2-93ca-4f58-b9e8-4c56c9434265",
+  "name": "Stress handling",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mindfulness: Breathe, meditate, relax muscles.\nHealthy Habits: Move your body, eat well, sleep tight.\nTime Management: Set goals, say no, delegate, take breaks.\nSeek Support: Talk, consider therapy, join a group."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

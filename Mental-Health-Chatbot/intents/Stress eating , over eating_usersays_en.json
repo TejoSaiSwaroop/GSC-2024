@@ -1,0 +1,67 @@
+[
+  {
+    "id": "31f68815-b408-462e-8394-ac61794ccf14",
+    "data": [
+      {
+        "text": "over eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65c097db-ead1-4f59-aa22-d208517cb096",
+    "data": [
+      {
+        "text": "aggressive eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46c7b29f-3fb1-48e0-ac2b-5851f4d44911",
+    "data": [
+      {
+        "text": "panic eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33fcae36-a500-4522-9611-4f73345b4fac",
+    "data": [
+      {
+        "text": "How to stop stress eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a6a6d5d-2aff-4220-ba2c-c0b8b282081b",
+    "data": [
+      {
+        "text": "Stress eating",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

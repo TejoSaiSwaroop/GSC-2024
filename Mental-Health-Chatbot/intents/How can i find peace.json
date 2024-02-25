@@ -1,0 +1,35 @@
+{
+  "id": "fb2ca9ed-5153-45cb-bb7e-1c7fc27a7fe2",
+  "name": "How can i find peace",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Progressive muscle relaxation: This technique involves tensing and relaxing different muscle groups in your body, which can help to release tension and promote relaxation.\n\nSpend time in nature\nTalk to a trusted friend or family member\n\nGet a new interesting hobby or meet someone you love talking to.\n\nConsider professional help: If you\u0027re struggling to cope, a therapist or counselor can help.\n\nGet enough sleep: Aim for 7-8 hours of sleep per night\n\nEat a healthy diet \n\nExercise regularly\n\nLimit alcohol and caffeine\n\nEngage in hobbies and activities you enjoy"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

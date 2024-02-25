@@ -1,0 +1,35 @@
+{
+  "id": "88ad0080-2534-413d-9043-a24f4f1e371c",
+  "name": "OCD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Cognitive Behavioral Therapy (CBT):\n This is considered the first-line treatment for OCD and focuses on identifying and changing negative thought patterns and behaviors that contribute to the disorder.\n\n Exposure and Response Prevention (ERP):\n This type of therapy involves gradually exposing oneself to feared triggers while resisting the urge to perform compulsions.\n\n Medication:\n Medication, such as selective serotonin reuptake inhibitors (SSRIs), can be helpful in reducing OCD symptoms alongside therapy."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

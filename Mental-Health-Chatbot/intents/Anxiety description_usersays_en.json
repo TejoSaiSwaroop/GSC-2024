@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5477d899-405e-4543-a5b7-383e6e322b15",
+    "data": [
+      {
+        "text": "Could you give me some details about anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0954af44-88f5-4b41-8a83-295ff4735000",
+    "data": [
+      {
+        "text": "I\u0027d like to understand more about anxiety. Can you help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdd7385e-90c6-4324-8123-87897c2485dc",
+    "data": [
+      {
+        "text": "Can you explain what anxiety is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48213a3b-1b10-441e-a85c-fe898c33bc6c",
+    "data": [
+      {
+        "text": "What should I know about anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e21bddc-749b-4692-8e83-94dc5472463e",
+    "data": [
+      {
+        "text": "Can you provide information about anxiety?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7094bfd6-a60c-4d62-b205-0fab1c702528",
+    "data": [
+      {
+        "text": "Can you tell me more about anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

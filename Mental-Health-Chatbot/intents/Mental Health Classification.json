@@ -1,0 +1,35 @@
+{
+  "id": "ab9206cd-a766-483e-b915-dcd917f8a075",
+  "name": "Mental Health Classification",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Diagnosis: \nThis method uses criteria from manuals like the DSM-5 to categorize mental health conditions such as depression and anxiety. It’s useful for identifying and treating symptoms but doesn’t cover all aspects of mental well-being.\n\nContinuum: \nThis approach sees mental health as a spectrum from well-being to severe illness. It considers emotional, psychological, and social well-being, emphasizing the promotion of positive mental health.\n\nFunctional Impact: \nThis method focuses on how mental health affects daily life and quality of life, assessing the severity of mental health challenges and the need for intervention."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

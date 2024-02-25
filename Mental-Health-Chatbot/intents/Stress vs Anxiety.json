@@ -1,0 +1,35 @@
+{
+  "id": "0abb949e-e39d-4339-b8e1-9c6ba255a604",
+  "name": "Stress vs Anxiety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Stress is usually tied to a specific situation or event. Once that situation is resolved, the stress \n tends to fade away. For example, feeling stressed before a presentation but feeling relieved \n afterward. Unlike stress, anxiety can occur even without an obvious trigger. It can be generalized (worry about many things) or specific (phobias). Just stay calm take a deep breath and restart whatever you need to focus on"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

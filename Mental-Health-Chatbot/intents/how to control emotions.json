@@ -1,0 +1,35 @@
+{
+  "id": "56545c3f-03fd-42ce-85f6-6496a95662da",
+  "name": "how to control emotions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Mindfulness:\n Be aware of your emotions as they arise. Acknowledge them without judgment.\n\nBreathing Exercises: \nDeep, slow breaths can help calm the mind and body.\n\nPositive Self-Talk:\n Encourage yourself with positive and uplifting statements.\n\nJournaling: \nWriting about your feelings can provide a safe outlet for expression.\n\nPhysical Activity:\n Regular exercise can help reduce stress and improve mood.\n\nAvoid Triggers:\n If certain situations or people cause negative emotions, it might be helpful to avoid them when possible.\n\nTherapy:\n A mental health professional can provide strategies and tools for managing emotions.\n\nRemember, it’s okay to experience emotions. They’re a natural part of life. The goal isn’t to suppress emotions, but to understand and manage them in a healthy way1."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

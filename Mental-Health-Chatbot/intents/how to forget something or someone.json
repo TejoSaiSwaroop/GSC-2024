@@ -1,0 +1,35 @@
+{
+  "id": "b6b79f9b-aad2-4b01-b9a5-1663f593568e",
+  "name": "how to forget something or someone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify What You Want to Forget: \nBefore you can forget a memory, you need to think about the details of that memory.\n\nAddress Unresolved Issues:\n If there’s something you haven’t addressed with the person or situation you’re trying to forget, it might be harder to get them out of your mind.\n\nChange Your Thought Patterns: \nTry to replace negative thoughts with positive ones.\n\nCreate New Memories:\nEngage in new experiences and activities.\n\nPractice Mindfulness: \nStay present and focused on the current moment.\n\nSeek Professional Help: \nIf unpleasant memories are interfering with your life, consider talking to a therapist"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

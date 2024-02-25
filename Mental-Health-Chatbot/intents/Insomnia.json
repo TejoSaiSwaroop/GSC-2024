@@ -1,0 +1,35 @@
+{
+  "id": "d4d0f112-5ab9-468c-9b76-0aabab87bae1",
+  "name": "Insomnia",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Develop a consistent sleep schedule: \nGo to bed and wake up at the same time each day, even on weekends. This helps regulate your body\u0027s natural sleep-wake cycle.\n\nCreate a relaxing bedtime routine:\n Wind down for an hour before bed with calming activities like reading, taking a warm bath, or listening to soothing music. Avoid stimulating activities like watching TV or using electronic devices.\n\nOptimize your sleep environment:\n Make sure your bedroom is dark, quiet, cool, and clutter-free. Invest in blackout curtains, earplugs, and a comfortable mattress and pillows.\n\nLimit caffeine and alcohol:\n Avoid caffeine intake in the afternoon and evening, as it can interfere with sleep. Limit alcohol consumption, as it may disrupt sleep quality later in the night.\n\nExercise regularly: \nPhysical activity can improve sleep quality, but avoid strenuous workouts close to bedtime.\n\nRelaxation techniques: \nPractice deep breathing exercises, meditation, or progressive muscle relaxation before bed to calm your mind and body."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

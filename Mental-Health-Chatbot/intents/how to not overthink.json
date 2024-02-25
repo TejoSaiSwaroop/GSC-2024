@@ -1,0 +1,35 @@
+{
+  "id": "7329cf2b-7a49-4c4d-a7c2-cb4a26eadc72",
+  "name": "how to not overthink",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Catch Yourself: \nBe aware of when you’re stuck in your thoughts and try to shift your focus.\n\nFind a Distraction:\n Engage in an activity you enjoy to divert your mind.\n\nTake a Deep Breath: \nDeep breathing can help calm your mind and body.\n\nMeditate:\n Regular meditation can help clear your mind and reduce overthinking.\n\nLook at the Bigger Picture:\n Try to view your situation from a broader perspective.\n\nBe Kind to Yourself: \nTreat yourself with the same compassion you would offer to a friend.\n\nAcknowledge Your Successes: \nInstead of dwelling on your mistakes, focus on your achievements.\n\nStay Present: \nTry to keep your mind focused on the present moment.\n\nConsider Other Viewpoints: \nTry to see the situation from other perspectives.\n\nTake Action: \nInstead of thinking about what you could do, take steps to do it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

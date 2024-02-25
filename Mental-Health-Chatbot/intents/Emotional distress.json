@@ -1,0 +1,35 @@
+{
+  "id": "6814d2e8-db3a-415b-a9d3-a782d84bff76",
+  "name": "Emotional distress",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify Your Emotional Distress: \nUnderstand what’s causing your distress. Once you identify the source, you can work on addressing it.\n\nAccept Your Emotional Experience: \nIn times of stress, it’s often easy to spend a lot of time resisting the reality of your feelings. Accepting your emotional experience is the first step toward coping with it.\n\nKeep an Emotional Toolkit on Hand:\n In a moment of distress, you may feel so overwhelmed that you temporarily forget your coping strategies. Having a toolkit of strategies can help.\n\nAdd in Gentle Movement:\n Physical activity, like a short walk or gentle yoga, can help reduce emotional distress.\n\nSeek Professional Help:\n If your emotional distress is persistent or hard to manage, consider contacting a doctor or mental health professional."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

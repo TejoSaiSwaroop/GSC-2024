@@ -1,0 +1,35 @@
+{
+  "id": "2dc0a4fe-97c0-42af-b36d-3067ad2299d6",
+  "name": "how to stop feeling sudden hyper and low energy level",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Understanding the Cause:\n\nTrack your symptoms:\n Keep a record of your mood, energy levels, activities, sleep, and any other factors you think might be contributing to your fluctuations. This can help you identify patterns and potential triggers.\n\nConsult a doctor:\n Discuss your symptoms with a doctor to rule out any underlying medical conditions that could be causing your energy fluctuations. They can also offer personalized advice based on your specific situation.\n\nLifestyle Changes:\n\nRegular sleep: \nAim for 7-8 hours of quality sleep each night. Establish a consistent sleep schedule and create a relaxing bedtime routine.\n\nHealthy diet: \nEat a balanced diet rich in fruits, vegetables, whole grains, and lean protein. Avoid processed foods, sugary drinks, and excessive caffeine, which can impact energy levels.\n\nExercise regularly: \nRegular physical activity can boost energy levels and improve mood. Aim for at least 30 minutes of moderate-intensity exercise most days of the week.\n\nManage stress:\n Stress can contribute to energy fluctuations. Practice relaxation techniques like deep breathing, meditation, or yoga to manage stress levels.\n\nStay hydrated: \nDehydration can lead to fatigue. Drink plenty of water throughout the day.\nLimit alcohol and caffeine: While they may provide a temporary energy boost, alcohol and caffeine can disrupt sleep and worsen energy fluctuations in the long run.\n\nAdditional Strategies:\n\nSchedule breaks:\n If you experience sudden drops in energy, plan short breaks throughout the day to rest and recharge. Take a walk, do some light stretches, or listen to calming music.\n\nBreak down tasks:\n Split large tasks into smaller, more manageable steps. This can help you avoid feeling overwhelmed and maintain your energy levels.\n\nListen to your body: \nPay attention to your body\u0027s signals and rest when you feel tired. Pushing yourself too hard can lead to crashes and worsen your symptoms.\n\nProfessional Help:\n\nTherapy:\n A therapist can help you identify and address any underlying emotional or psychological factors contributing to your energy fluctuations. They can also teach you coping mechanisms and strategies to manage your symptoms more effectively."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

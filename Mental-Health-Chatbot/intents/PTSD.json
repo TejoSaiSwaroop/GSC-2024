@@ -1,0 +1,35 @@
+{
+  "id": "37887af9-a5c0-4306-a93b-a6fbbf8be050",
+  "name": "PTSD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify Your PTSD:\n Understand what’s causing your PTSD. Once you identify the source, you can work on addressing it.\n\nLearn More About PTSD (Psychoeducation):\n Educate yourself about PTSD. Understanding the condition can help you manage its symptoms.\n\nIdentify Triggers:\n Recognize what triggers your PTSD symptoms and develop strategies to cope with these triggers.\n\nParticipate in Support Groups:\n Connecting with others who are experiencing the same struggles can provide comfort, reduce feelings of isolation, and help you cope\n\nPractice Daily Relaxation Techniques:\n Techniques such as deep breathing, meditation, and yoga can help reduce symptoms of PTSD.\n\nDo Positive Activities:\n Engage in activities that you enjoy and that can distract you from your symptom.\n\nEstablish a Daily Routine:\n Having a predictable routine can provide a sense of control and reduce feelings of fear.\n\nGet Quality Sleep and Physical Activity:\n Good sleep hygiene can improve the quality of your sleep, and regular physical activity can help reduce anxiety.\n\nEat a Balanced Diet:\n Healthy eating can improve your overall well-being and help you manage your symptoms.\n\nLimit Your Exposure to Negative Media: \nGraphic news stories or violent films can trigger PTSD symptoms.\n\nSpeak with a Mental Health Professional: \nTherapists can provide strategies for managing PTSD and help you understand and cope with your symptoms."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

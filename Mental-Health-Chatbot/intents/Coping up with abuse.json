@@ -1,0 +1,35 @@
+{
+  "id": "24c67eba-6b0b-45f6-ac2b-0a3e365fa317",
+  "name": "Coping up with abuse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Coping with past abuse is a complex and personal journey, and there\u0027s no single \"right\" way to do it. However, here are some strategies that may help:\n\nAcknowledge and Validate Your Emotions:\n\nIt\u0027s important to acknowledge the pain and hurt you\u0027ve experienced. Don\u0027t suppress or judge your emotions, as this can hinder healing. Allow yourself to feel angry, sad, scared, or whatever emotions arise.\n\nValidate your experiences. \nThe abuse you endured was real and harmful, and your feelings are valid.\n\nSeek Support:\n\nTalking to a trusted friend, family member, therapist, or counselor can be incredibly helpful. Sharing your experiences can provide emotional support and guidance.\n\nConsider joining a support group for survivors of abuse. Connecting with others who understand what you\u0027re going through can be validating and empowering.\n\nPractice Self-Care:\n\nPrioritize your physical and mental well-being. Engage in activities you enjoy, like exercise, spending time in nature, or listening to music.\n\nGet enough sleep, eat healthy foods, and avoid substances that can worsen emotional distress.\nPractice relaxation techniques like deep breathing, meditation, or yoga to manage stress and anxiety.\n\nWork on Healing:\n\nConsider therapy to address the emotional impact of the abuse. A therapist can help you process your experiences, develop coping mechanisms, and build healthy relationships.\n\nExplore creative outlets like journaling, art, or music to express your emotions and begin healing.\nRemember:\n\nHealing takes time and patience. Be kind to yourself and celebrate your progress, no matter how small.\n\nYou are not alone. Many people have experienced abuse, and there are resources available to help you heal.\n\nYou are not defined by your past experiences. You have the strength to overcome them and build a fulfilling life.\n\nHere are some additional resources that you may find helpful:\n\nNational Commission for Women Helpline: Provides help for women in distress. Contact: 7827170170.\n\nCentral Social Welfare Board - Police Helpline: A helpline for women. Contact: 1091/ 1291.\n\nShakti Shalini: A women’s shelter. Contact: 10920.\n\nRAHI (Recovering and Healing from Incest): A support center for women survivors of child sexual abuse. Contact: (011) 26238466/ 26224042, 26227647.\n\nAskSHEROES Free Online Counselling Chat Helpline: Provides online counselling for women.\n\nChild Line: A 24-hour, free, nationwide phone outreach emergency helpline for children in need of care and protection. Contact: 1098.\nRemember, you are not alone in this. There are people who care about you and want to help."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

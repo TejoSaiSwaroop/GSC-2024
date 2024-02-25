@@ -1,0 +1,35 @@
+{
+  "id": "b141c329-b0e8-48ee-962f-6ba3f46b052f",
+  "name": "How can I tell if I’m experiencing burnout?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Emotional Signs:\n\nFeeling exhausted and depleted, even after resting\nFeeling cynical, detached, or negative about your work or life\nReduced sense of accomplishment or satisfaction\nIncreased irritability, frustration, or anger\nAnxiety, depression, or difficulty sleeping\n\nPhysical Signs:\n\nHeadaches, muscle tension, or stomachaches\nChanges in appetite or sleep patterns\nFatigue or lack of energy\nFrequent illness or weakened immune system\n\nBehavioral Signs:\n\nWithdrawing from social activities or hobbies\nProcrastinating or avoiding work responsibilities\nIncreased use of alcohol, drugs, or other unhealthy coping mechanisms\nDifficulty concentrating or making decisions\nDifficulty relaxing or enjoying activities you once did"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

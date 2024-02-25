@@ -1,0 +1,41 @@
+[
+  {
+    "id": "0e9efe8f-1998-4029-aa94-f999bf4346e3",
+    "data": [
+      {
+        "text": "How to cope up with abuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dde0183f-77a1-4205-a089-4a9bf5c3ea88",
+    "data": [
+      {
+        "text": "How to cope up with past harassment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58429fee-f540-45ec-a229-529b073dfe39",
+    "data": [
+      {
+        "text": "Coping with abuse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

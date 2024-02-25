@@ -1,0 +1,35 @@
+{
+  "id": "f55f5c86-778f-4b60-b996-1bacf2b4dae3",
+  "name": "Maintaining Mental Health",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Healthy Lifestyle:\nRegular exercise, balanced diet, quality sleep, and limiting alcohol/drugs are crucial.\n\nStress Management:\nPractice relaxation techniques like yoga, meditation, or deep breathing.\n\nStrong Social Connections:\nSpend time with loved ones, build meaningful relationships, and avoid isolation.\n\nPositive Thinking:\nChallenge negative thoughts and cultivate an optimistic outlook."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bfd8a712-f749-4b05-b376-23bc57aa6435",
+  "name": "Coping up with Loneliness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Reach out to existing friends and family:\n Reconnect with loved ones you haven\u0027t spoken to in a while. Schedule phone calls, video chats, or in-person meetings.\n\nEngage in activities you enjoy: \nDo things that bring you joy and make you feel good about yourself. This could include reading, listening to music, exercising, spending time in nature, or pursuing a hobby.\n\nTake care of your physical health:\n Eating nutritious foods, getting enough sleep, and exercising regularly can all improve your mood and energy levels, making it easier to connect with others.\n\nChallenge negative thoughts: \nPay attention to your self-talk and challenge any negative thoughts you have about yourself or your ability to connect with others.\n\nBe kind to yourself: \nRemember that everyone experiences loneliness sometimes. Don\u0027t be afraid to reach out for help if you need it."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

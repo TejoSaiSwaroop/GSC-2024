@@ -1,0 +1,35 @@
+{
+  "id": "9ea1b703-40b4-4fc8-ac06-097136eb0be7",
+  "name": "Emotional attachment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Detaching emotionally from someone or something can be a complex and challenging process. It\u0027s important to remember that there isn\u0027t a one-size-fits-all approach and the timeframe will vary depending on the depth and nature of the attachment. However, here are some strategies that might help you navigate this process:\n\nUnderstanding Your Attachment:\n\nIdentify the reasons for your attachment: \nUnderstanding the root cause of your attachment, whether it\u0027s fear of loneliness, dependence, or unresolved issues, can help you address it more effectively.\n\nAcknowledge your feelings: \nDon\u0027t suppress your emotions. Allow yourself to feel the sadness, anger, or any other emotions that arise, but avoid dwelling on them.\n\nLimiting contact:\n If possible, gradually reduce contact with the person or thing you\u0027re attached to. This could mean unfollowing them on social media, avoiding places you frequent together, or setting boundaries in your interactions.\n\nFinding distractions: \nFocus on activities and hobbies that bring you joy and fulfillment. This will help you shift your attention away from the object of your attachment.\n\nFocus on the present:\n Remind yourself that the past is unchangeable and the future is uncertain. Focus on living in the present moment and enjoying your life here and now.\n\nDevelop new relationships:\n Cultivating new connections with people who share your values and interests can help you build a fulfilling life outside your previous attachment."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

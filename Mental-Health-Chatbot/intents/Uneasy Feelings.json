@@ -1,0 +1,35 @@
+{
+  "id": "333fc91a-3850-488f-a984-a61f0e5e8168",
+  "name": "Uneasy Feelings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify Your Feelings:\n Understand what’s causing your unease. Once you identify the source, you can work on addressing it.\n\nPractice Mindfulness:\n Mindfulness techniques, such as deep breathing and meditation, can help you stay present and focused, reducing unease.\n\nEngage in Physical Activity: \nRegular physical activity can help reduce anxiety and improve your mood, which can help manage uneasy feelings.\n\nTalk to Someone You Trust: \nSharing your feelings with a trusted friend or family member can provide emotional support and help you feel less uneasy.\n\nLimit Your Exposure to Negative Media: \nGraphic news stories or violent films can trigger uneasy feelings.\n\nSeek Professional Help: \nIf your uneasy feelings are persistent or hard to manage, consider contacting a doctor or mental health professional"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ccd14bf9-d45b-4549-ad0c-606809fd2e48",
+  "name": "Isolation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identifying the Cause:\nReflect on your reasons for feeling isolated: Are there specific social anxieties holding you back? \n\nReach Out and Connect:\n\nStart small:\n If you\u0027re nervous about large social gatherings, begin with smaller interactions. \n\nUtilize technology: Online communities and social media platforms can be valuable tools for connecting with others who share your interests.\n\nChallenge Yourself:\n\nStep outside your comfort zone\n\nBe patient:\n Building relationships takes time and effort. Don\u0027t get discouraged if you don\u0027t see immediate results."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "b925f603-fc5e-43e9-8de8-7b9e5333ed77",
+  "name": "Panic Attacks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "5-4-3-2-1 Technique:\n Focus on five things you can see, four things you can touch, three things you can hear, two things you can smell, and one thing you can taste. This helps shift your focus away from negative thoughts and bring you back to the present moment.\n\nProgressive Muscle Relaxation: \nTense and relax different muscle groups in your body, starting with your toes and working your way up. This can help to release physical tension and calm your nervous system.\n\nDeep Breathing:\n Slow, deep breaths from your diaphragm can slow your heart rate and reduce anxiety. Try breathing in for 4 counts, holding for 4 counts, and exhaling for 8 counts.",
+            "1. Identify Triggers:\n\nPay attention to situations or thoughts that often trigger your panic attacks.\n Once you know your triggers, you can develop strategies to avoid them or cope with them more effectively.\n\n2. Relaxation Techniques:\n\nPractice relaxation techniques like deep breathing, meditation, and yoga regularly, even when you\u0027re not feeling anxious. This can help to build your resilience to stress and anxiety.\n\n3. Regular Exercise:\n\nPhysical activity releases endorphins, which have mood-boosting effects and can help to reduce anxiety.\n\n4. Healthy Lifestyle:\n\nFocus on getting enough sleep, eating a healthy diet, and limiting caffeine and alcohol. These lifestyle factors can all contribute to anxiety and panic attacks.\n\n5. Therapy:\n\nConsider talking to a therapist who specializes in anxiety disorders. They can teach you coping mechanisms and help you develop a personalized treatment plan."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

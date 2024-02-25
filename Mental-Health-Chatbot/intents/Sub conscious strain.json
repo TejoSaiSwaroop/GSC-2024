@@ -1,0 +1,35 @@
+{
+  "id": "cdc0d4a1-f506-46db-9f3a-129c271e2b68",
+  "name": "Sub conscious strain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Self-reflection: \nJournaling, meditation, and mindfulness exercises can help you identify subconscious thoughts and feelings.\n\nSelf-help resources: \nBooks, articles, and online resources can provide information and techniques for managing stress and anxiety.\n\nPhysical therapy:\n A physical therapist can assess your posture and muscle tension and recommend exercises to improve flexibility and reduce pain.\n\nRelaxation techniques:\n Deep breathing, progressive muscle relaxation, and body scan meditations can help release physical tension.\n\nPain management strategies:\n Applying heat or ice, engaging in gentle stretches, and practicing mindfulness can help manage discomfort.\n\nThese suggestions are general and may not be appropriate for everyone. Seek personalized advice from a qualified professional based on your specific situation."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

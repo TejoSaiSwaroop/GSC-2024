@@ -1,0 +1,35 @@
+{
+  "id": "4b5364d3-c310-489d-aba9-c7cc5bf2d6b7",
+  "name": "Can you suggest some self-care activities?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Physical Self-Care:\n\nExercise: \nRegular physical activity releases endorphins, boosts mood, and improves sleep. Try walking, running, yoga, swimming, dancing, or any activity you enjoy.\n\nHealthy eating:\n Nourish your body with nutritious foods that provide energy and support your immune system. Focus on fruits, vegetables, whole grains, and lean protein.\n\nRelaxing baths or showers:\n Immerse yourself in warm water with calming scents or essential oils to unwind and de-stress.\n\nGetting enough sleep:\n Aim for 7-8 hours of quality sleep each night to rest your body and mind. Create a relaxing bedtime routine and establish a consistent sleep schedule.\n\nSpending time in nature:\n Take a walk in the park, hike in the woods, or simply sit outside and enjoy the fresh air and sunshine. Nature can be incredibly calming and restorative.\n\nMental Self-Care:\n\nMeditation: \nMindfulness meditation helps focus your attention on the present moment and reduce stress and anxiety. There are many guided meditations available online or through apps.\n\nDeep breathing exercises:\n Taking slow, deep breaths can calm your nervous system and bring a sense of peace. Find a quiet space and focus on your breath for a few minutes.\n\nJournaling: \nWriting down your thoughts and feelings can help you process them, gain clarity, and release stress. Write freely without judgment.\n\nSpending time with loved ones: \nConnect with friends, family, or pets who make you feel supported and loved. Social interaction can boost your mood and well-being.\n\nEngaging in hobbies:\n Do something you enjoy, whether it\u0027s reading, painting, playing music, or spending time outdoors. Hobbies provide relaxation, enjoyment, and a sense of accomplishment.\n\nCreative Self-Care:\n\nTrying a new recipe:\n Cooking can be a fun and rewarding experience. Experiment with new flavors and ingredients or bake something comforting.\n\nLearning a new skill:\n Expand your knowledge and challenge yourself by learning something new, like playing an instrument, coding, or taking a language class.\n\nCreating art: \nExpress yourself creatively through painting, drawing, writing, or any other artistic medium. Let go of perfectionism and enjoy the process.\n\nListening to music:\n Music can evoke different emotions and provide a sense of relaxation, joy, or inspiration. Choose music that matches your mood and listen mindfully.\n\nDancing: \nGet your body moving and express yourself freely through dance. There are no rules, so let loose and have fun!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

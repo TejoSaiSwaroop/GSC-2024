@@ -1,0 +1,35 @@
+{
+  "id": "07317515-c4f3-4faa-a569-3ada6f651fcb",
+  "name": "Forgetting the past",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Focus on Processing, Not Forgetting:\n\nAccepting the past:\n While you can\u0027t change the past, you can choose how you react to it. Accepting that the event happened and that you cannot control it can be a powerful first step.\n\nUnderstanding the impact:\n Explore the emotional and psychological impact the trauma has had on you. Talking to a therapist or counselor can be invaluable in this process.\n\nDeveloping coping mechanisms:\n Learn healthy ways to manage difficult emotions and flashbacks triggered by memories. This could include relaxation techniques like deep breathing, meditation, or mindfulness exercises.\n\nReduce Intrusive Thoughts:\n\nCognitive Behavioral Therapy (CBT): \nThis therapy helps identify and challenge negative thought patterns that fuel intrusive thoughts. A therapist can guide you through CBT techniques.\n\nDistraction techniques:\n When intrusive thoughts arise, try engaging in activities that require your full attention, like reading, listening to music, or spending time with loved ones.\n\nGrounding techniques:\n These exercises help bring your focus back to the present moment and reduce the intensity of intrusive thoughts. Examples include focusing on your senses, naming objects around you, or repeating calming mantras.\n\nRemember:\n\nHealing takes time and patience: Don\u0027t expect to \"get over\" trauma quickly. Be kind to yourself and celebrate your progress, no matter how small.\n\nFocus on the present and future: While acknowledging the past, remember that you have the power to shape your present and future. Focus on building a fulfilling life filled with positive experiences."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

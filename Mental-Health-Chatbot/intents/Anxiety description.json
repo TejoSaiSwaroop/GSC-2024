@@ -1,0 +1,36 @@
+{
+  "id": "de6ce4cd-fabf-438f-8b1e-870777d5685c",
+  "name": "Anxiety description",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Anxiety is a common emotion that can become a medical disorder causing excessive fear and worry. It affects how a person feels, behaves, and can cause physical symptoms. Treatment often involves therapy, medication, and self-care. Always consult a healthcare professional for accurate information.",
+            "Anxiety is similar to a chronic worrywart in that it keeps one on edge and afraid of the worst. Severe fear bodily symptoms like sweating and a racing heart or bothersome thoughts are some of the ways it manifests. There are various kinds ranging from phobias to social anxiety and even though it can be difficult keep in mind that youre not the only one. You can manage your anxiety and lead a fulfilling life with the aid of talk therapy medication and relaxation techniques. Never be afraid to ask for assistance—doing so is a sign of strength not weakness."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

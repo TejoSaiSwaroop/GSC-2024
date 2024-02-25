@@ -1,0 +1,36 @@
+{
+  "id": "d32cba49-0192-410e-bf09-50a082ef0ab9",
+  "name": "Harassment diversion",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify the Harasser: \nWhen you confront your harasser, call them out by name. If you don’t know their name, use a description that distinguishes them from other people around you.\n\nExpress Your Discomfort:\n Speak in a loud, clear voice with an even tone. After identifying your harasser, tell them explicitly to stop whatever they’re doing that’s harassing you.\n\nSet Boundaries:\n After telling your harasser what you don’t want them to do, you may want to add a statement about what kind of comments or actions are welcome.\n\nRemove Yourself from the Situation:\n If the person continues harassing you after you’ve told them clearly that their behavior is not welcome, it’s typically best for you to find a way to get away from them as quickly as possible.\n\nReport the Harassment:\n If the harassment doesn’t let up, take measures such as involving the police and increasing your security.\n\nSeek Professional Help:\nIf you’re feeling overwhelmed by the harassment, consider talking to a therapist. They can help you deal with the stress of harassment and provide you with coping mechanisms",
+            "When you don\u0027t have the courage or scared of the harraser.\nTalk to a Friend or Family Member:\n Share your experiences with someone you trust. They can provide emotional support and practical advice.\n\nConsider Talking to a Therapist:\n A mental health professional can provide strategies for coping with the stress and fear caused by harassment.\n\nPractice Self-Compassion:\n Remember that the harassment is not your fault. Be kind to yourself and acknowledge your feelings.\n\nIf You’re in Danger, Contact the Police: \nIf you feel threatened, don’t hesitate to contact law enforcement.\n\nSend a Cease-and-Desist Harassment Letter:\n If possible, consider sending a formal letter asking the harasser to stop. This can sometimes be done through a lawyer.\n\nKeep Records of Harassment: \nDocument instances of harassment. This can be useful if you decide to report the harassment or take legal action.\n\nApply for a Restraining or Protection Order: \nIf the harassment continues, you may want to consider legal measures such as a restraining order.\n\nEnforcing a Restraining Order: \nIf you have a restraining order and the harasser violates it, report them to the police immediately."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

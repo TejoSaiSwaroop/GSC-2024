@@ -1,0 +1,35 @@
+{
+  "id": "8d901a21-6730-4ef4-963d-573225309d69",
+  "name": "Stress eating , over eating",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Identify Your Stress: \nUnderstand what’s causing your stress. Once you identify the source, you can work on addressing it.\n\nAvoid Caffeine and Alcohol:\n These substances can increase stress levels and trigger overeating.\n\nWrite It Out: \nWriting about your feelings can help you understand them better and reduce stress.\n\nUse Scent: \nCertain scents, like lavender or chamomile, can have a calming effect and help manage stress.\n\nTalk to Someone: \nSharing your feelings with a trusted friend or family member can provide emotional support.\n\nPositive Affirmations:\n Encourage yourself with positive and uplifting statements. This can improve your mood and reduce the desire to stress eat.\n\nExercise: \nRegular physical activity can help reduce stress levels and improve your mood, which can help manage overeating.\n\nEat Healthy Foods:\n A balanced diet can contribute to overall mental well-being and can help manage overeating.\n\nPractice Mindfulness: \nTechniques such as deep breathing, meditation, and yoga can help you stay present and focused, reducing stress and helping manage overeating.\n\nSeek Professional Help:\n If your stress eating is causing significant distress or interfering with your life, consider seeking help from a mental health professional."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

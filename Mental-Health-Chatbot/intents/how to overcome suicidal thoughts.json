@@ -1,0 +1,35 @@
+{
+  "id": "667a9482-1245-438e-8e32-aedcd110928e",
+  "name": "how to overcome suicidal thoughts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Get to a safe place: \nIf you think you might harm yourself, call emergency services or go to a hospital\n\nPut off any immediate plans: \nMake a promise to yourself that you’ll wait a set amount of time rather than doing anything in the moment.\n\nVisualize your friends and loved ones: \nTry thinking about all the people in your life who love you and would miss you if you weren’t around.\n\nTell someone exactly how you’re feeling: Use phrases like “I’ve experienced these feelings for a long time…” “I’m considering…” or “Recently, I’ve been struggling with…” to start the conversation1.\nTry not to think about the future: Just focus on getting through today.\n\nStay away from drugs and alcohol.\n\nBe around other people:\nDo something you usually enjoy, such as spending time with a pet."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

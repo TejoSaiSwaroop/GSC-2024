@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4a8e592e-3cbd-42d6-bb3f-22772362dd72",
+    "data": [
+      {
+        "text": "harassment diversion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "332b3142-76fc-4578-b038-13f93dfd0f0c",
+    "data": [
+      {
+        "text": "how to overcome harassment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdabe7c4-065b-412d-a1bb-f7c63ff7758f",
+    "data": [
+      {
+        "text": "how to stop getting harassed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
